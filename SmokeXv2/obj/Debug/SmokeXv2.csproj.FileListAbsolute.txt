@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\bin\Debug\SmokeXv2.exe.config
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\bin\Debug\SmokeXv2.exe
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\bin\Debug\SmokeXv2.pdb
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.SmokeXv2.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.Info.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.LoaderUI.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.Properties.Resources.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.csproj.CopyComplete
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.exe
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.pdb
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.MainUI.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.Options.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.ScriptHub.resources
+C:\Users\asus\source\repos\SmokeXv2\SmokeXv2\obj\Debug\SmokeXv2.Settings.resources
